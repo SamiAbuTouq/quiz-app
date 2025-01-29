@@ -4,7 +4,10 @@
 
 The Quiz App is a Flutter-based application designed to provide an engaging and interactive way for users to test their knowledge on various topics. Users are presented with multiple-choice questions, can select their answers, and receive instant feedback. At the end of the quiz, a summary of their performance is displayed, helping them review their answers.
 
-This app is built with modular and scalable architecture, making it easy to customize and expand.
+## UI Design
+
+You can view the app's design on Figma:
+[Quiz App Figma Design](https://www.figma.com/design/EkXoQirW5YGx1tpjrrvyQc/quiz-app?node-id=0-1&t=EeHnmqdtF2HEMvMG-1)
 
 ## Features
 
